@@ -1,0 +1,10 @@
+require("typos-dato")
+
+print("======= Mi perfil Informatico =======")
+print("Nombre: " , nombre , apellidos)
+print("Edad: " , edad)
+print("-------------------------------------")
+print("Numero de dispositivos: " , numero_dispositivos)
+print("Dispositivos: " , dispositivos.pc , dispositivos.tablet , dispositivos.movil)
+print("Lenguajes de programacion: " , lenguajes_progra[1] , lenguajes_progra[2] , lenguajes_progra[3] , lenguajes_progra[4] , lenguajes_progra[5])
+print("Internet: " , internet)
